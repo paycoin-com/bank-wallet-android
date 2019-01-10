@@ -46,6 +46,10 @@ Along with the launch of the BANK wallet app a number of developer friendly open
 
 Moreover, using these repositories it is fairly easy to create independent branded decentralized custom crypto wallets either for a single currency or a bunch of them pushing the crypto adoption and ecosystem further.
 
+## Get Bank Wallet
+
+Play Market: [play.google.com/store/apps/details?id=io.horizontalsystems.bankwallet](https://itunes.apple.com/us/app/bank-wallet/id1447619907?ls=1&mt=8)
+
 ## License
 
 The BANK wallet is open source and available under the terms of the MIT Lincense.
